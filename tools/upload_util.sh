@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Check if a file argument is provided
 if [[ "$#" == '0' ]]; then
     echo -e 'ERROR: No File Specified!' && exit 1
 fi
@@ -8,7 +7,6 @@ fi
 FILE="$1"
 
 # Upload file with progress bar
-# Use --progress-bar for a clean progress display
 RESPONSE=$(curl --progress-bar -X POST -F "file=@$FILE" "https://upload.gofile.io/uploadfile")
 
 # Extract download link

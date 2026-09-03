@@ -1,8 +1,29 @@
 #!/bin/bash
-echo ""
-echo "  EvolutionX 11.x - build script  "
-echo ""
+banner() {
+    clear
 
+    echo -e "${CYAN}${BOLD}"
+    echo "╔════════════════════════════════════════════════════════════╗"
+    echo "║                                                            ║"
+    echo "║        ███████╗██╗   ██╗ ██████╗ ██╗  ██╗                  ║"
+    echo "║        ██╔════╝██║   ██║██╔═══██╗╚██╗██╔╝                  ║"
+    echo "║        █████╗  ██║   ██║██║   ██║ ╚███╔╝                   ║"
+    echo "║        ██╔══╝  ╚██╗ ██╔╝██║   ██║ ██╔██╗                   ║"
+    echo "║        ███████╗ ╚████╔╝ ╚██████╔╝██╔╝ ██╗                  ║"
+    echo "║        ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝                  ║"
+    echo "║                                                            ║"
+    echo "║              E V O L U T I O N   X                         ║"
+    echo "║              Automated Release Builder                     ║"
+    echo "║                                                            ║"
+    echo "╠════════════════════════════════════════════════════════════╣"
+    echo "║  Device     : Xiaomi Civi 4 Pro / chenfeng                 ║"
+    echo "║  Build      : bp4a-user                                    ║"
+    echo "║  Branch     : bka                                          ║"
+    echo "╚════════════════════════════════════════════════════════════╝"
+    echo -e "${RESET}"
+}
+
+banner;
 
 echo "============================================="
 echo "    cleaning up previous local manifests    "
