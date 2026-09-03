@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": 1750000000,
+      "filename": "axion-2.7-20260903-GMS-chenfeng.zip",
+      "id": "some-unique-build-id",
+      "romtype": "GMS",
+      "size": 1234567890,
+      "url": "https://example.com/axion-2.7-20260903-GMS-chenfeng.zip",
+      "version": "2.7"
+    }
+  ]
+}

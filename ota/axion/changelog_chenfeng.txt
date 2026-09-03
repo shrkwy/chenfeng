@@ -1,1 +1,8 @@
+AxionOS Changelogs for chenfeng:
 
+Build Date: 04/06/2026
+
+- Initial release for chenfeng
+- Based on Firmware from OS3.0.307.0.WNJCNXM
+- Leica Camera not included
+- Sofod and Dt2w not working
