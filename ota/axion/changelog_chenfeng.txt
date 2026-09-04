@@ -1,19 +1,21 @@
-# AxionOS Changelog — chenfeng
-
-## R1.0
-### Metadata
-
+# R1.0
+## Metadata
+<br/>
 * **Recent Build Date:** 02/06/2026
 * **Status:** Initial Build
 * **Firmware Base:** OS3.0.307.0.WNJCNXM
 
-### 📝 Notes
-
+<br/>
+<br/>
+## 📝 Notes
+<br/>
 * **Initial Release**
 * **You may encounter random reboots**
 
-### ⚠️ Bugs
-
+<br/>
+<br/>
+## ⚠️ Bugs
+<br/>
 * **📸 Leica Camera:** Not included
 * **🔒 Sofod:** Not working
 * **📱 Dt2w:** Not working
