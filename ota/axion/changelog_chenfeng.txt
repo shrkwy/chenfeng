@@ -1,8 +1,18 @@
-AxionOS Changelogs for chenfeng:
+### AxionOS Changelog — chenfeng
 
-Build Date: 04/06/2026
+### 📅 Latest Release Details
 
-- Initial release for chenfeng
-- Based on Firmware from OS3.0.307.0.WNJCNXM
-- Leica Camera not included
-- Sofod and Dt2w not working
+* **Recent Build Date:** 02/06/2026
+* **Status:** Initial Official Release
+* **Firmware Base:** OS3.0.307.0.WNJCNXM
+
+### 📝 Notes
+
+* **Initial Release**
+* **Firmware Requirement** This build is strictly based on and requires the OS3.0.307.0.WNJCNXM firmware base to ensure hardware compatibility.
+
+### ⚠️ Limitations
+
+* **📸 Leica Camera:** Not included
+* **🔒 Sofod:** Screen-off-Fingerprint-on-Display is currently **not working**.
+* **📱 Dt2w:** Double-Tap to Wake is currently **not functional**.
