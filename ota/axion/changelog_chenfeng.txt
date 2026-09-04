@@ -1,18 +1,19 @@
-### AxionOS Changelog — chenfeng
+# AxionOS Changelog — chenfeng
 
-### 📅 Latest Release Details
+## R1.0
+### Metadata
 
 * **Recent Build Date:** 02/06/2026
-* **Status:** Initial Official Release
+* **Status:** Initial Build
 * **Firmware Base:** OS3.0.307.0.WNJCNXM
 
 ### 📝 Notes
 
 * **Initial Release**
-* **Firmware Requirement** This build is strictly based on and requires the OS3.0.307.0.WNJCNXM firmware base to ensure hardware compatibility.
+* **You may encounter random reboots**
 
-### ⚠️ Limitations
+### ⚠️ Bugs
 
 * **📸 Leica Camera:** Not included
-* **🔒 Sofod:** Screen-off-Fingerprint-on-Display is currently **not working**.
-* **📱 Dt2w:** Double-Tap to Wake is currently **not functional**.
+* **🔒 Sofod:** Not working
+* **📱 Dt2w:** Not working
